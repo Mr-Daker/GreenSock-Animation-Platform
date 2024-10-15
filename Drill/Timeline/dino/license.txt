@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nike Air Max 270 Scan 02
+* source:	https://sketchfab.com/3d-models/nike-air-max-270-scan-02-23c16f0235aa46fb8cdbbeea2194847f
+* author:	Ely HADDAD (https://sketchfab.com/ElyHADDAD29)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nike Air Max 270 Scan 02" (https://sketchfab.com/3d-models/nike-air-max-270-scan-02-23c16f0235aa46fb8cdbbeea2194847f) by Ely HADDAD (https://sketchfab.com/ElyHADDAD29) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

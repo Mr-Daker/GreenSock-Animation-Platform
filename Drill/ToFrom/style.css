@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+
+}
+body{
+    background: #111;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+#box1{
+    height: 100px;
+    width: 300px;
+    background-color: crimson;
+}
+#box2{
+    height: 100px;
+    width: 300px;
+    background-color: yellow;
+}
+#box3{
+    height: 100px;
+    width: 300px;
+    background-color: orange;
+}

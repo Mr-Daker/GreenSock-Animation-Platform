@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #111;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.box{
+    margin-top: 100px;
+    height: 70vh;
+    width: 80vw;
+    display: flex;
+    gap: 300px;
+    justify-content: center;
+}
+.left{
+
+    height: 80%;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+    
+}
+
+.right{
+
+    height: 80%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#container3D canvas {
+    width:100% !important;
+    height:100% !important;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  #container3D{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    border: blue 1px solid;
+  }
+  .holder{
+    height: 80vh;
+    width: 90vw;
+  }
+  img{
+    width: 100%;
+    height: 75%;
+    /* transition: 1s; */
+  }
+  .heading{
+    color: #8DFF0A;
+    font-family: "Londrina Sketch", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 200px;
+  }
+  .pointer1{
+    background: #FC1FF9;
+    width: 90%;
+    font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 20px;
+  font-style: normal;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  }
+  .pointer2{
+    background: #8407CE;
+    width: 90%;
+    font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 20px;
+  font-style: normal;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  }
+  .pointer3{
+    background: #5F03BD;
+    width: 90%;
+    font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 20px;
+  font-style: normal;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  }
+
+  img:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    
+  }
